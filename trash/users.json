@@ -1,0 +1,26 @@
+[
+  {
+    "id": "user_1746867777002",
+    "name": "ydel",
+    "email": "3095528971@qq.com",
+    "password": "$2b$10$CcW8TgEXA57IzwpFh7nc4u8ClkdvzbheR1X/z0GXCAfYPp7QNYQUC",
+    "role": "client",
+    "createdAt": "2025-05-10T09:02:57.002Z"
+  },
+  {
+    "id": "user_1746868133887",
+    "name": "管理员测试",
+    "email": "1923756651@qq.com",
+    "password": "$2b$10$PczR2vl0ZWd4O9ed7No5gOvEOVm5N4ZkhxQEnlNH7QODx.RCcEAAS",
+    "role": "admin",
+    "createdAt": "2025-05-10T09:08:53.887Z"
+  },
+  {
+    "id": "user_1746868172139",
+    "name": "摄影师测试",
+    "email": "1923756652@qq.com",
+    "password": "$2b$10$Mg5ZTlIkvx8SOROONG3Vgu8vbBfLDJdGPwxL4dvGQXGAJe6OxXUru",
+    "role": "photographer",
+    "createdAt": "2025-05-10T09:09:32.139Z"
+  }
+]

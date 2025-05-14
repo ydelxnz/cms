@@ -1,0 +1,46 @@
+[
+  {
+    "id": "user_admin_1",
+    "name": "系统管理员",
+    "email": "admin@example.com",
+    "password": "$2b$10$3SrT3yBAefvJYYMsAeNbq.PXahyUER7ezQyAERDk531dIku6rMSjG",
+    "role": "admin",
+    "createdAt": "2025-05-10T09:31:40.157Z",
+    "updatedAt": "2025-05-10T09:31:40.157Z",
+    "profile": {
+      "avatar": "/images/avatars/admin.png"
+    }
+  },
+  {
+    "id": "user_photographer_1",
+    "name": "张摄影师",
+    "email": "photographer@example.com",
+    "password": "$2b$10$GT73aZsiX7vfLVrMaeOb4Ov11QFn6EwU/v3KVEz9toxr0LggDySDC",
+    "role": "photographer",
+    "createdAt": "2025-05-10T09:31:40.157Z",
+    "updatedAt": "2025-05-10T09:31:40.157Z",
+    "profile": {
+      "avatar": "/images/avatars/photographer.png",
+      "specialties": [
+        "婚纱照",
+        "儿童照",
+        "全家福"
+      ],
+      "experience": "5年以上专业摄影经验",
+      "bio": "专注于捕捉最美瞬间的专业摄影师"
+    }
+  },
+  {
+    "id": "user_client_1",
+    "name": "李客户",
+    "email": "client@example.com",
+    "password": "$2b$10$lI2wllh1V7JBh.yM40lGuugGwE1oM6NYNc6MbuFP8Trxd63c2D6IG",
+    "role": "client",
+    "createdAt": "2025-05-10T09:31:40.157Z",
+    "updatedAt": "2025-05-10T09:31:40.157Z",
+    "profile": {
+      "avatar": "/images/avatars/client.png",
+      "phone": "13800138000"
+    }
+  }
+]

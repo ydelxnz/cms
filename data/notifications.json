@@ -1,0 +1,50 @@
+[
+  {
+    "id": "notification_2",
+    "userId": "user_client_1",
+    "title": "新照片已上传",
+    "message": "您的摄影师已上传2张新照片到您的照片集。请前往我的照片页面查看。",
+    "type": "photo",
+    "isRead": true,
+    "createdAt": "2025-05-11T10:15:00.000Z",
+    "updatedAt": "2025-05-11T10:15:00.000Z"
+  },
+  {
+    "id": "notification_3",
+    "userId": "user_client_1",
+    "title": "系统维护通知",
+    "message": "尊敬的用户，我们将于本周六凌晨2:00-5:00进行系统维护，期间部分功能可能暂时无法使用。感谢您的理解和支持。",
+    "type": "system",
+    "isRead": true,
+    "createdAt": "2025-05-09T09:00:00.000Z",
+    "updatedAt": "2025-05-09T09:00:00.000Z"
+  },
+  {
+    "id": "notification_4",
+    "userId": "user_photographer_1",
+    "title": "新预约请求",
+    "message": "您有一个新的预约请求，请尽快查看并确认。",
+    "type": "booking",
+    "isRead": false,
+    "createdAt": "2025-05-10T16:45:00.000Z",
+    "updatedAt": "2025-05-10T16:45:00.000Z"
+  },
+  {
+    "id": "notification_1746935343886",
+    "userId": "user_1746867777002",
+    "title": "预约已完成",
+    "message": "您的预约已完成。感谢您的信任，摄影师将尽快上传照片。",
+    "type": "booking",
+    "isRead": false,
+    "createdAt": "2025-05-11T03:49:03.886Z"
+  },
+  {
+    "id": "notification_1746935974810",
+    "userId": "user_client_1",
+    "title": "预约已完成",
+    "message": "您的预约已完成。感谢您的信任，摄影师将尽快上传照片。",
+    "type": "booking",
+    "isRead": false,
+    "createdAt": "2025-05-11T03:59:34.810Z"
+  }
+]
